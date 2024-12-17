@@ -1,1 +1,1 @@
-# Epilleptic-
+# Epileptic Seizure Recognition
